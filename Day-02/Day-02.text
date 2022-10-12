@@ -1,0 +1,45 @@
+Day-02[11-10-2022]:
+===================
+	Good Evening to All...
+
+	Python Execution:
+	=================
+		- Basic Procedure
+		- Advanced Editors
+		- IDLE
+		- Jupyter Notebook
+
+	Basic Procedure:
+	================
+	> Using Notepad and Interpreter [It is to be installed in your local systems]
+	> Open Notepad and save the file as "filename.py" we need to save the python files with .py extension by user defined locations such as [Desktop,c drive or d drive etc.,]
+	> After saving the file with some content then we need to open the file location which file is to be executed by using command prompt.
+	> We can open the command prompt where python file exists. First we need to open the location of python file in file explorer and at top we can observe the path for which folder we are navigating there we need to clear all path and type "cmd" then command prompt will be opened where the python file exists.
+	> To execute the python file in command prompt we need to type the command such as
+		=> filename.py
+			If the file is not executed then we need to mention the interpreter name because by default in local systems the python file is opened in another editors so it can't execute the python file.
+		=> python filename.py
+			Then it executes the python file
+
+	Advanced Editors:
+	=================
+	> To execute python files we can use Advanced Editors such as Geany,sublime,atom,editplus and Notepad++, etc.,
+	> In these editors each and every editor has different shortcuts to execute python file
+	> First we need to write some content in a file here we can use template or else we can code by our own syntax and after code completio we need to save the file in a particular location where user can defined
+	> After completion of code we need to execute the code by editor shortcuts here the output will be displayed in command prompt.
+
+	IDLE:
+	=====
+	IDLE -> Integrated Development Learning Environment
+	IDE -> Integrated Development Environment
+	> IDLE can be installed by default while installing the python software
+	> Here we can execute the python code in 2 ways they are
+		=> Scripting [Permanent way by storing the code in a file]
+		=> Interactive [Temporary in shell for debugging purposes] 
+	> If we need to use scripting mode then we need to open idle and in menu we can observe file. In that we can select new file and then we needto save the file if we press "cntrl + s" it displays a window to select the location where we need to store the file
+	> By default in saving window it will displays the python installed location we should not save our python files becuase in future the python interpreter will not work due to unwanted files are saved in installed location
+	> We need to change the location of saving file where user can be defined we need to save the file with only filename because by default the file will saves as python file because the file is opened through python shell
+	> After saving we need to code then the file can be executed by clicking on run option existing in top of the file. We can use the shortcut to execute such as "f5"
+	> It will displays the output in a shell
+
+	
