@@ -1,0 +1,59 @@
+Day-03[12-10-2022]:
+===================
+	Good Afternoon to All..
+
+	print(help("keywords"))
+
+	Jupyter Notebook:
+	=================
+	> To run python files in jupyter notebook first we need to install jupyter or else we can install anaconda software. In anaconda it exists some python library and packages related to it.
+	> Jupyter notebook will be installed by using pip command
+	
+	Pip:
+	====
+	> Pip is used to install third party packages related to python such as jupyter notebook,numpy,pandas,matplotlib and some machine learning packages
+	> First we need to check the pip version by using the command in command prompt such as
+		=> pip -V
+	> To install jupyter notebook we need to open the command prompt then we need to type the command such as
+		=> pip install jupyter notebook
+			If the jupyter notebook doesnt installs or else with any warning then we nned to upgrade the pip version to install the upgraded packages to local system
+
+	Pip Upgrade:
+	============
+	> open command prompt and then need to type command such as
+		=> python -m pip install --upgrade pip
+		It will upgrades the pip from lower version to updated version
+	> After upgrading the pip we need to install the jupyter notebook again because the latest packages and libraries will be update to loca system
+	> If it doesnt work then we need to type the command such as
+		=> python -m pip install jupyter notebook
+			Here jupyter notebook will installs successfully then we can run the jupyter notebook
+	> To run the jupyter notebook we need to open the command prompt and type the command such as
+		=> jupyter notebook 
+			It will displays in defalt browser if it is not set then try to set to a defalt browser then it will displays all the files and folders in browser
+
+	
+	Jupyter notebook running:
+	=========================
+	> open command prompt and then we need to type the command such as 
+		=> jupyter notebook
+		It will runs the server and opens jupyter notebook in default browser with tree structure of a folders and files in a local system
+
+	Jupyter Notebook = Literate Programming
+	Literate Programming => Coding + Documentation
+
+	Commands used in Jupyter notebook:
+	==================================
+	esc + m => Changes from code to markdown
+	esc + y => Changes from markdown to code
+	cntrl + enter => Executes present cell
+	shift + enter => Executes and select below
+	alt + enter => Executes and insert cell below
+
+	One cell = one program file code
+
+	> In Jupyter notebook it consists of 2 formats they are
+		- Coding format
+		- Markdown format
+		In these each formats it consists of 2 modes they are
+			- code mode
+			- edit mode
