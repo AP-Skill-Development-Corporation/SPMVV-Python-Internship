@@ -12,4 +12,9 @@
 # Day-03(12-10-2022):
   - Pip Upgrade and installation of third party packages,Jupyter Notebook Installation
   - Overview of Jupyter notebook and running of it
-  
+
+# Day-04(13-10-2022):
+  - Python Basics like variable concept
+  - Variable assignment ways
+  - Data types and type casting
+  - Input and Output formatting
