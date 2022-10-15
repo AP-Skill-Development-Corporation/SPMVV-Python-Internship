@@ -18,3 +18,6 @@
   - Variable assignment ways
   - Data types and type casting
   - Input and Output formatting
+
+# Day-05(14-10-2022):
+  - Conditional Statements with if and if-else examples on each
