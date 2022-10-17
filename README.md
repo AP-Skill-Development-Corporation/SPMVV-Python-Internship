@@ -24,4 +24,7 @@
   - Conditional Statements with if and if-else examples on each
 
 # Day-06(15-10-2022):
-  - Conditional statements with nested if with examples
+  - Conditional Statements with nested if with examples
+
+# Day-07(16-10-2022):
+  - Looping concept on for with range of single parameter
