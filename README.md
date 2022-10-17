@@ -22,3 +22,6 @@
 # Day-05(14-10-2022):
   - format and f string output formatting and Operators
   - Conditional Statements with if and if-else examples on each
+
+# Day-06(15-10-2022):
+  - Conditional statements with nested if with examples
