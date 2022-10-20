@@ -35,3 +35,8 @@
 # Day-09(19-10-2022):
   - While forward,backward and infinity loop with sample example on each
   - Jumping statements and inner loops with sample example on each
+
+# Day-10(20-10-2022):
+  - Yesterdays task overview
+  - Functions and its types with sample example on each
+  - Function argument types overview
