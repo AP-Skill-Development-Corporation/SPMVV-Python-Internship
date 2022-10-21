@@ -40,3 +40,8 @@
   - Yesterdays task overview
   - Functions and its types with sample example on each
   - Function argument types overview
+
+# Day-11(21-10-2022):
+  - Previous concepts overview
+  - Function argument types with default and required argument with sample example on each
+  
