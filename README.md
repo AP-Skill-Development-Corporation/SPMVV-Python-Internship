@@ -44,4 +44,6 @@
 # Day-11(21-10-2022):
   - Previous concepts overview
   - Function argument types with default and required argument with sample example on each
-  
+
+# Day-12(22-10-2022):
+  - Function argument types with keyword and variable length argument with sample example on each
