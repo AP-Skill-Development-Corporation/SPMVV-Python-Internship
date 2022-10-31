@@ -53,3 +53,9 @@
 #### DayWise Recording Sessions:
 
 [25-10-22](https://transcripts.gotomeeting.com/#/s/ec737347185c81f490aa17287fe124c9d956a8d0a9f6dee96862abe16111b14c)
+
+[26-10-22](https://transcripts.gotomeeting.com/#/s/0a9ed041d9a2836e3daf1e67945c9709b3d99a289a00b7d411aac8e7ae46b99c)
+
+[27-10-22](https://transcripts.gotomeeting.com/#/s/9d8c8650f9f8f1ad4beb03382835121a1696583075b575126c2edacb52784216)
+
+[28-10-22](https://transcripts.gotomeeting.com/#/s/2110f94cbfd54f55a2aa347ecebba055be0aefc2ca744168eac5dd7310f299b1)
