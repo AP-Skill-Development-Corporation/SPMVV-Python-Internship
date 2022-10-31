@@ -47,3 +47,9 @@
 
 # Day-12(22-10-2022):
   - Function argument types with keyword and variable length argument with sample example on each
+  
+  
+  
+#### DayWise Recording Sessions:
+
+-[25-10-2022][https://transcripts.gotomeeting.com/#/s/ec737347185c81f490aa17287fe124c9d956a8d0a9f6dee96862abe16111b14c]
