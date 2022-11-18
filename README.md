@@ -72,6 +72,29 @@
 
 [05-11-22](https://transcripts.gotomeeting.com/#/s/eef79fe2d17f00ca7224c182701bbf40bea206e42ec29e95da587b16a5de843c)
 
+[07-11-22](https://transcripts.gotomeeting.com/#/s/9d499f42e67adfa16a9ad27c34e1720ae4b5dcc6d969f84ba0c62a8e8c89c306)
+
+[08-11-22](https://transcripts.gotomeeting.com/#/s/49201077df3dc649e50823304667e6fe6e3515077951a8faf9dc999f3da42dc7)
+
+[09-11-22](https://transcripts.gotomeeting.com/#/s/5749efe42d1ac2b8343b9c94601023e495c4df0529c0329291c6f20d216859dd)
+
+[11-11-22](https://transcripts.gotomeeting.com/#/s/e17492617e44fcf0cfe1e17f20f3c91777d0afa383701e189a16cba633ae30f8)
+
+[12-11-22](https://transcripts.gotomeeting.com/#/s/454b1c3c42636cb17816af15fa0e63a41708b2096130646a8e98173d2a77b95d)
+
+[14-11-22](https://transcripts.gotomeeting.com/#/s/5e4b42a2a7c154a8cb7d85c5ba7a7f6548b2ffb671c6a36a93e003312b9b0c26)
+
+[15-11-22](https://transcripts.gotomeeting.com/#/s/201c870bd097cc3ba73a1eda411039b01c8cbd98239201833a5be580d2528699)
+
+[16-11-22](https://transcripts.gotomeeting.com/#/s/0a0a66bb77f21f5a5dfe09fd6bdaa09fe9dc9562dbcdda3cca2b0884f20b1629)
+
+[17-11-22](https://transcripts.gotomeeting.com/#/s/d64ef4d02eab22aa79e451e377ab72fb4a74aa52742b87ef3e7177579fed60e3)
+
+
+
+
+
+
 
 
 
