@@ -90,6 +90,10 @@
 
 [17-11-22](https://transcripts.gotomeeting.com/#/s/d64ef4d02eab22aa79e451e377ab72fb4a74aa52742b87ef3e7177579fed60e3)
 
+[18-11-22](https://transcripts.gotomeeting.com/#/s/86dc723cedb966b53209ecefb258cedc07291f60899a4ac3f8192e1c830caf41)
+
+[19-11-22](https://transcripts.gotomeeting.com/#/s/aa62c22d64a47cdac052f160beb897200508814f44ce0b3e220f1783758dd434)
+
 
 
 
